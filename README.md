@@ -1,5 +1,5 @@
 # planner
-Deployed URL:
+Deployed URL: https://nolandc5.github.io/planner/
 
 This application I created a scheduler/planner for the typical work day. The scheduler has 8 segments one for each hour 9-5.
 The hours will show a different color depending on where it is in relation to your day. 
